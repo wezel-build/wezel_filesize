@@ -2,7 +2,7 @@
 name = "executor_filesize"
 version = "0.1.0"
 edition = "2024"
-repository = "https://github.com/wezel-build/forager_filesize"
+repository = "https://github.com/wezel-build/executor_filesize"
 publish = false
 license = "Apache-2.0"
 
